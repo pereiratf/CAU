@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bx448ewfvijv3"]
+
+[ext_resource type="Script" path="res://Mundo.cs" id="1_violc"]
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource("1_violc")
